@@ -1,4 +1,4 @@
-<h1>LIVE Bus Tracker - Boston</h1>
+<h1>PacMan</h1>
 
 This project is the from the MIT xPro JavaScript Course. With this project you can animate the pacman images and let him move from the left side to the right side of the window.
 
